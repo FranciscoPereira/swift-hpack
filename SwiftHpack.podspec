@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'SwiftHpack'
+  s.name = 'hpack'
   s.version = '0.1.1'
   s.license = { :type => 'MIT' }
   s.summary = 'HPACK (RFC 7541) encoding and decoding library for Swift adapted from PerfectLib.'
